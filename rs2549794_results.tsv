@@ -1,0 +1,24 @@
+SNP	chr	beta.outcome	se.outcome	samplesize.outcome	pval.outcome	eaf.outcome	effect_allele.outcome	other_allele.outcome	outcome	id.outcome	originalname.outcome	outcome.deprecated	mr_keep.outcome	data_source.outcome	proxy.outcome	target_snp.outcome	proxy_snp.outcome	target_a1.outcome	target_a2.outcome	proxy_a1.outcome	proxy_a2.outcome	pos	chrom
+rs2549794	5	-0.00795311	0.0135001	462869	0.555785	0.565317	T	C	Sepsis (under 75) || id:ieu-b-5088	ieu-b-5088	Sepsis (under 75)	Sepsis (under 75) ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	5	-0.0381027	0.0793513	431365	0.631101	0.567202	T	C	Sepsis (28 day death in critical care) || id:ieu-b-4981	ieu-b-4981	Sepsis (28 day death in critical care)	Sepsis (28 day death in critical care) ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	5	0.024582	0.00999136	486484	0.0138813	0.565327	T	C	Pneumonia || id:ieu-b-4976	ieu-b-4976	Pneumonia	Pneumonia ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	5	0.0636804	0.0259393	434005	0.0140893	0.565327	T	C	Pneumonia (death) || id:ieu-b-4979	ieu-b-4979	Pneumonia (death)	Pneumonia (death) ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	5	0.0750768	0.0281036	431365	0.00755301	0.567202	T	C	Pneumonia (critical care) || id:ieu-b-4978	ieu-b-4978	Pneumonia (critical care)	Pneumonia (critical care) ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	5	-0.00788295	0.0137857	486484	0.567444	0.565327	T	C	Sepsis || id:ieu-b-4980	ieu-b-4980	Sepsis	Sepsis ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	5	0.0181731	0.0337139	486484	0.58986	0.565327	T	C	Sepsis (28 day death) || id:ieu-b-5086	ieu-b-5086	Sepsis (28 day death)	Sepsis (28 day death) ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	5	0.105628	0.0631143	31365	0.0942085	0.567202	T	C	Pneumonia (28 day death in critical care) || id:ieu-b-4977	ieu-b-4977	Pneumonia (28 day death in critical care)	Pneumonia (28 day death in critical care) ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	5	-0.00148902	0.0396305	431365	0.970028	0.567202	T	C	Sepsis (critical care) || id:ieu-b-4982	ieu-b-4982	Sepsis (critical care)	Sepsis (critical care) ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	5	-0.155403	0.023	20883	1.45512e-11	0.588444	T	C	Crohn's disease || id:ieu-a-30	ieu-a-30	Crohn's disease	Crohn's disease ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	5	-0.0561	0.0236	24840	0.01717	0.5699	T	C	Type 1 diabetes || id:ebi-a-GCST010681	ebi-a-GCST010681	Type 1 diabetes	Type 1 diabetes ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	5	0.00648603	0.00657234	408422	0.323708	0.561821	T	C	Asthma || id:ebi-a-GCST90014325	ebi-a-GCST90014325	Asthma	Asthma ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	5	-2e-4	0.0119	58284	0.9868	0.465	T	C	Rheumatoid arthritis || id:ebi-a-GCST90013534	ebi-a-GCST90013534	Rheumatoid arthritis	Rheumatoid arthritis ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	NA	0.0151937	0.00769238	NA	0.0482503	0.621362	T	C	Pneumonia (FinnGen)	Pneumonia (FinnGen)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	96908845	5
+rs2549794	NA	0.0219443	0.0150115	NA	0.143787	0.62163	T	C	Sepsis (FinnGen)	Sepsis (FinnGen)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	96908845	5
+rs2549794	NA	0.023686	0.01285	NA	0.065288	0.5984	T	C	Severe COVID (HGI)	Severe COVID (HGI)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	NA	0.016077	0.0085091	NA	0.058838	0.5949	T	C	Hospitalised COVID (HGI)	Hospitalised COVID (HGI)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	NA	0.0265	0.0128	NA	0.0381	NA	T	C	Severe COVID (GenoMICC)	Severe COVID (GenoMICC)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	NA	0.0175	0.009	NA	0.05284	NA	T	C	Hospitalised COVID (GenoMICC)	Hospitalised COVID (GenoMICC)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	NA	-0.00355095	0.00266563	NA	0.17	0.436992	C	T	Age at death (father)	Age at death (father)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	NA	-0.00369555	0.0027812	NA	0.19	0.438128	C	T	Age at death (mother)	Age at death (mother)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	NA	-0.0100681	0.00328808	NA	0.0022	0.437813	C	T	Age at death (both)	Age at death (both)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2549794	NA	0.0181731	0.0337139	NA	0.5898600726833034	0.565327	T	C	Sepsis (death)	Sepsis (death)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA

@@ -1,0 +1,24 @@
+SNP	chr	beta.outcome	se.outcome	samplesize.outcome	pval.outcome	eaf.outcome	effect_allele.outcome	other_allele.outcome	outcome	id.outcome	originalname.outcome	outcome.deprecated	mr_keep.outcome	data_source.outcome	proxy.outcome	target_snp.outcome	proxy_snp.outcome	target_a1.outcome	target_a2.outcome	proxy_a1.outcome	proxy_a2.outcome	pos	chrom
+rs2248374	5	0.0539261	0.0278627	431365	0.0529383	0.500859	G	A	Pneumonia (critical care) || id:ieu-b-4978	ieu-b-4978	Pneumonia (critical care)	Pneumonia (critical care) ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	5	0.0210566	0.00990446	486484	0.0335058	0.498666	G	A	Pneumonia || id:ieu-b-4976	ieu-b-4976	Pneumonia	Pneumonia ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	5	-0.0169558	0.0786048	431365	0.829214	0.500859	G	A	Sepsis (28 day death in critical care) || id:ieu-b-4981	ieu-b-4981	Sepsis (28 day death in critical care)	Sepsis (28 day death in critical care) ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	5	-0.00911795	0.0392357	431365	0.816236	0.500859	G	A	Sepsis (critical care) || id:ieu-b-4982	ieu-b-4982	Sepsis (critical care)	Sepsis (critical care) ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	5	5.75569e-4	0.0333951	486484	0.986249	0.498666	G	A	Sepsis (28 day death) || id:ieu-b-5086	ieu-b-5086	Sepsis (28 day death)	Sepsis (28 day death) ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	5	0.0703197	0.0626167	31365	0.26143	0.500859	G	A	Pneumonia (28 day death in critical care) || id:ieu-b-4977	ieu-b-4977	Pneumonia (28 day death in critical care)	Pneumonia (28 day death in critical care) ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	5	0.0366216	0.0257263	434005	0.154588	0.498666	G	A	Pneumonia (death) || id:ieu-b-4979	ieu-b-4979	Pneumonia (death)	Pneumonia (death) ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	5	-0.00867061	0.0136683	486484	0.525845	0.498666	G	A	Sepsis || id:ieu-b-4980	ieu-b-4980	Sepsis	Sepsis ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	5	-0.00550973	0.0133885	462869	0.680686	0.498661	G	A	Sepsis (under 75) || id:ieu-b-5088	ieu-b-5088	Sepsis (under 75)	Sepsis (under 75) ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	5	-0.130502	0.0227	20883	8.62204e-9	0.512299	G	A	Crohn's disease || id:ieu-a-30	ieu-a-30	Crohn's disease	Crohn's disease ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	5	-0.0471	0.0233	24840	0.0433701	0.5013	G	A	Type 1 diabetes || id:ebi-a-GCST010681	ebi-a-GCST010681	Type 1 diabetes	Type 1 diabetes ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	5	-0.0024	0.0114	58284	0.8354	0.6496	G	A	Rheumatoid arthritis || id:ebi-a-GCST90013534	ebi-a-GCST90013534	Rheumatoid arthritis	Rheumatoid arthritis ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	5	0.00622084	0.00652607	408422	0.340475	0.49682	G	A	Asthma || id:ebi-a-GCST90014325	ebi-a-GCST90014325	Asthma	Asthma ||  || 	TRUE	igd	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	NA	0.0120485	0.00745947	NA	0.106267	0.527487	G	A	Pneumonia (FinnGen)	Pneumonia (FinnGen)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	96900192	5
+rs2248374	NA	0.0300401	0.014557	NA	0.0390544	0.527733	G	A	Sepsis (FinnGen)	Sepsis (FinnGen)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	96900192	5
+rs2248374	NA	0.025389	0.012417	NA	0.040884	0.516	G	A	Severe COVID (HGI)	Severe COVID (HGI)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	NA	0.021918	0.008188	NA	0.007431	0.5143	G	A	Hospitalised COVID (HGI)	Hospitalised COVID (HGI)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	NA	-0.0298	0.0124	NA	0.0168	NA	A	G	Severe COVID (GenoMICC)	Severe COVID (GenoMICC)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	NA	-0.0182	0.0088	NA	0.03994	NA	A	G	Hospitalised COVID (GenoMICC)	Hospitalised COVID (GenoMICC)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	NA	-0.00218966	0.00264588	NA	0.38	0.502296	A	G	Age at death (father)	Age at death (father)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	NA	-0.00609617	0.0027637	NA	0.027	0.503901	A	G	Age at death (mother)	Age at death (mother)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	NA	-0.0104433	0.00326536	NA	0.0012	0.503515	A	G	Age at death (both)	Age at death (both)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+rs2248374	NA	5.75569e-4	0.0333951	NA	0.9862490320927444	0.498666	G	A	Sepsis (death)	Sepsis (death)	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
